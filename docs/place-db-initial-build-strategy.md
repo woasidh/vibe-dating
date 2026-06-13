@@ -161,7 +161,7 @@ Vibe Dating의 핵심 자산은 단순한 장소 목록이 아니라, 커플이 
 
 관련 문서:
 
-- [kakao-local-api-spec-and-usage.md](./kakao-local-api-spec-and-usage.md)
+- [kakao-local-api-spec-and-usage.md](api/kakao-local-api-spec-and-usage.md)
 
 용도:
 
@@ -196,8 +196,8 @@ Vibe Dating의 핵심 자산은 단순한 장소 목록이 아니라, 커플이 
 
 관련 문서:
 
-- [naver-local-api-and-place-data-strategy.md](./naver-local-api-and-place-data-strategy.md)
-- [google-maps-api-research.md](./google-maps-api-research.md)
+- [naver-local-api-and-place-data-strategy.md](api/naver-local-api-and-place-data-strategy.md)
+- [google-maps-api-research.md](api/google-maps-api-research.md)
 
 용도:
 
