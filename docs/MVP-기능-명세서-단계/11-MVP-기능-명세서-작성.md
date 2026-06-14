@@ -8,7 +8,7 @@
 
 작성된 문서:
 
-- [../mvp-feature-spec.md](../mvp-feature-spec.md)
+- [../MVP-기능-명세서.md](../MVP-기능-명세서.md)
 
 ## 문서에 포함된 주요 섹션
 
